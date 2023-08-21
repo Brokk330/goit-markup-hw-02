@@ -109,6 +109,7 @@ span {
 /* our team */
 .team-box {
   background: var(--cloud, #f4f4fd);
+  line-height: 1.2;
 }
 .our-team {
   color: var(--navyblue, #2e2f42);
