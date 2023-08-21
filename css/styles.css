@@ -178,7 +178,7 @@ body {
 }
 .footer-text {
   color: var(--cloud, #f4f4fd);
-  font-family: Roboto
+  font-family: Roboto;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
