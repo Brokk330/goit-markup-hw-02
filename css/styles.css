@@ -80,10 +80,10 @@ span {
   line-height: 60px;
   letter-spacing: 1.12px;
 }
-.button
-  background:  #07d37e;
- 
+.button {
+  background: #07d37e;
 }
+
 .topic {
   color: var(--navyblue, #2e2f42);
   font-family: Roboto;
@@ -112,14 +112,14 @@ span {
   line-height: 1.2;
 }
 .our-team {
-  color: var(--navyblue, #2e2f42);
+  color:  #2e2f42;
   text-align: center;
   font-family: Roboto;
-  font-size: 36px;
+  font-size: 20px;
   font-style: normal;
-  font-weight: 700;
-  line-height: 1.11;
-  letter-spacing: 0.72px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .name {
