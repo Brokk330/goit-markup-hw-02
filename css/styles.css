@@ -40,6 +40,7 @@ span {
   color: #404bbf;
 }
 
+
 .navigation {
   color: var(--navyblue, #2e2f42);
   font-family: Roboto;
@@ -80,13 +81,19 @@ span {
   line-height: 60px;
   letter-spacing: 1.12px;
 }
-.button {
+.order-button {
   background-color: #4D5AE5;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  
+
+}
+.order-button:hover{
+  background-color: #404BBF;
+}
+.order-button:focus{
+  background-color: #404BBF;
 }
 
 .topic {
