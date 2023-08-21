@@ -147,14 +147,14 @@ span {
   line-height: 24px;
   letter-spacing: 0.32px;
 }
-.portfolio {
+.portfolio-toper {
   color: var(--navyblue, #2e2f42);
   text-align: center;
   font-family: Roboto;
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.11;
+  line-height: 1.2;
   letter-spacing: 0.72px;
   text-transform: capitalize;
   background-color: #ffffff;
