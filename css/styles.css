@@ -80,14 +80,9 @@ span {
   line-height: 60px;
   letter-spacing: 1.12px;
 }
-.button {
-  display: inline-flex;
-
-  align-items: flex-start;
-  gap: 10px;
-  border-radius: 4px;
-  background: var(--iris, #07d37e);
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0);
+.button
+  background:  #07d37e;
+ 
 }
 .topic {
   color: var(--navyblue, #2e2f42);
@@ -108,7 +103,6 @@ span {
   letter-spacing: 0.32px;
   display: flex;
   width: 264px;
-  flex-direction: column;
   align-items: flex-start;
   gap: 8px;
 }
