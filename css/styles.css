@@ -80,7 +80,7 @@ span {
   line-height: 1.07;
   letter-spacing: 1.12px;
 }
-.order-button {
+.push-button {
   background-color: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
@@ -88,10 +88,10 @@ span {
   color: #ffffff;
   cursor: pointer;
 }
-.order-button:hover {
+.push-button:hover {
   background-color: #404bbf;
 }
-.order-button:focus {
+.push-button:focus {
   background-color: #404bbf;
 }
 
