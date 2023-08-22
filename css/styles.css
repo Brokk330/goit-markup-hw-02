@@ -11,7 +11,6 @@ body {
 }
 .link-link {
   color: #4d5ae5;
-  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -21,7 +20,6 @@ body {
 }
 .logo-studio {
   color: #f4f4fd;
-  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -39,8 +37,7 @@ body {
 }
 
 .navigation {
-  color: var(--navyblue, #2e2f42);
-  font-family: Roboto;
+  color: #2e2f42;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -52,8 +49,7 @@ body {
   color: #404bbf;
 }
 .info {
-  color: var(--slate, #434455);
-  font-family: Roboto;
+  color: #434455;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -66,12 +62,11 @@ body {
 }
 /* HERO */
 .hero-section {
-  background: var(--navyblue, #2e2f42);
+  background: #2e2f42;
 }
 .hero-title {
-  color: var(--white, #fff);
+  color:#fff;
   text-align: center;
-  font-family: Roboto;
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
@@ -94,8 +89,7 @@ body {
 }
 
 .topic {
-  color: var(--navyblue, #2e2f42);
-  font-family: Roboto;
+  color: #2e2f42;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -106,8 +100,7 @@ body {
   line-height: 1.2;
 }
 .description {
-  color: var(--slate, #434455);
-  font-family: Roboto;
+  color:#434455;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -138,9 +131,8 @@ body {
   text-transform: capitalize;
 }
 .name {
-  color: var(--navyblue, #2e2f42);
+  color:#2e2f42;
   text-align: center;
-  font-family: Roboto;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -148,9 +140,8 @@ body {
   letter-spacing: 0.02em;
 }
 .prof {
-  color: var(--slate, #434455);
+  color: #434455;
   text-align: center;
-  font-family: Roboto;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -158,9 +149,8 @@ body {
   letter-spacing: 0.32px;
 }
 .portfolio-toper {
-  color: var(--navyblue, #2e2f42);
+  color:#2e2f42;
   text-align: center;
-  font-family: Roboto;
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
@@ -170,7 +160,6 @@ body {
 }
 .products {
   color: #2e2f42;
-  font-family: Roboto;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -178,8 +167,7 @@ body {
   letter-spacing: 0.02em;
 }
 .direction {
-  color: var(--slate, #434455);
-  font-family: Roboto;
+  color: #434455;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -187,8 +175,7 @@ body {
   letter-spacing: 0.32px;
 }
 .footer-text {
-  color: var(--cloud, #f4f4fd);
-  font-family: Roboto;
+  color:#f4f4fd;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -196,5 +183,5 @@ body {
   letter-spacing: 0.02em;
 }
 .footer {
-  background: var(--navyblue, #2e2f42);
+  background: #2e2f42;
 }
