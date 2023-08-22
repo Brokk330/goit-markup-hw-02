@@ -185,6 +185,17 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.logo-studio-footer{
+color: #f4f4fd;
+    background-color: transparent;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
 .footer {
   background: #2e2f42;
 }
