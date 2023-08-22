@@ -175,7 +175,7 @@ span {
   font-style: normal;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 .direction {
   color: var(--slate, #434455);
