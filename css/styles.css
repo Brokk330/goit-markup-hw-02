@@ -124,6 +124,7 @@ span {
 .team-box {
   background: var(--cloud, #f4f4fd);
   line-height: 1.2;
+  background-color: #ffffff;
 }
 .our-team {
   color: #2e2f42;
@@ -166,7 +167,7 @@ span {
   line-height: 1.2;
   letter-spacing: 0.72px;
   text-transform: capitalize;
-  background-color: #ffffff;
+ 
 }
 .products {
   color: #2e2f42;
