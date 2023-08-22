@@ -17,7 +17,7 @@ span {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.17;
+  line-height: 1.07;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -27,7 +27,7 @@ span {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.07;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -46,7 +46,7 @@ span {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.07;
   letter-spacing: 0.32px;
 }
 .navigation:hover,
@@ -59,7 +59,7 @@ span {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.07;
   letter-spacing: 0.32px;
 }
 .info:hover,
@@ -77,13 +77,13 @@ span {
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1,07;
+  line-height: 1.07;
   letter-spacing: 1.12px;
 }
 .order-button {
   background-color: #4d5ae5;
   font-weight: 500;
-  line-height: 1.5;
+  line-height: 1.07;
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
