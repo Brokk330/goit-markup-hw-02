@@ -110,8 +110,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.32px;
   width: 264px;
-  align-items: flex-start;
-  gap: 8px;
 }
 /* our team */
 .team-box {
