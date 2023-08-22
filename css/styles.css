@@ -104,6 +104,9 @@ span {
   line-height: 1.2;
   letter-spacing: 0.4px;
 }
+.hide{
+  line-height: 1.2;
+}
 .description {
   color: var(--slate, #434455);
   font-family: Roboto;
